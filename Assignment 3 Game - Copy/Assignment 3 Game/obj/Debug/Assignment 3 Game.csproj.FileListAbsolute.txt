@@ -1,0 +1,16 @@
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\bin\Debug\Assignment 3 Game.exe.config
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\bin\Debug\Assignment 3 Game.exe
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\bin\Debug\Assignment 3 Game.pdb
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game.csprojResolveAssemblyReference.cache
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\MainWindow.baml
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\MainWindow.g.cs
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\App.g.cs
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game_MarkupCompile.cache
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game.g.resources
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment_3_Game.Properties.Resources.resources
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game.csproj.GenerateResource.Cache
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game.exe
+C:\Users\ghuan_000\Desktop\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game.pdb
+C:\Users\ghuan_000\Desktop\graphical application\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\bin\Debug\Assignment 3 Game.exe.config
+C:\Users\ghuan_000\Desktop\graphical application\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game.exe
+C:\Users\ghuan_000\Desktop\graphical application\COP4367 FALL 2015 HW3 HUANG,GUAN\Assignment 3 Game - Copy\Assignment 3 Game\obj\Debug\Assignment 3 Game.pdb
